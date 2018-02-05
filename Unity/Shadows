@@ -1,0 +1,6 @@
+Shadows			Unity3D			Shader
+--------------------------------------------------------------------------------------
+
+Shadows-shader takes the shadowmap and applies simple texture with cell-shading into it.
+
+Youtube video: https://www.youtube.com/watch?v=FT1t49QYIhY
