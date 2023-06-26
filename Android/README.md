@@ -8,6 +8,6 @@ The inverse kinematics model has been coded into arduino itself and to control i
 Video: https://www.youtube.com/watch?v=jPw9uoijZos
 
 2: 10x10 LED-screen
-Led screen made by using 100 SK6812.
+Led screen made by using 100 SK6812-leds.
 Communication with the screen has been done using ESP32-development boards wifi feature and a small unity program I coded myself.
 Video: https://www.youtube.com/watch?v=RUpkW9zmogE
