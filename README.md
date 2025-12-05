@@ -50,4 +50,4 @@ This is an automatic glockenspiel that can play midi-songs sent to it using usb 
 ### Led-Screen
 ![Led-Screen](Images/Led-screen.png)
 
-This was my side project testing my new SK6812 digitally adressable LEDs. It is powered by ESP32 board and it can receive multiple pictures that it will then display as an animation until new pictures are sent to it. More information can be seen in the Android folder: [Arduino](Arduino).
+This was my side project testing my new SK6812 digitally adressable LEDs. It is powered by ESP32 board and it can receive multiple pictures that it will then display as an animation until new pictures are sent to it. More information can be seen in the Arduino folder: [Arduino](Arduino).
